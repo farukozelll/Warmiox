@@ -1,4 +1,6 @@
 # Warmiox
+![wewe](https://user-images.githubusercontent.com/47918693/211146973-97d19097-61c7-41d1-a760-2fcc3234c403.png)
+
 # Proje Özeti (Proje Tanımı) 
 Soğuk kış aylarında Ülkemizin kuzeyimizdeki ülkelerde ve bazı illerimizde hava sıcaklığının düşmesi nedeniyle sabah erken saatlerde araçların motoru ve camları donmuş yada katılaşmış olabilmektedir. Araba motorunun buzlanması zorlu hava şartlarında ciddi bir sorun olmaktadır. 
 Araç motorları zorlu iklim koşullarında çalışsa bile gerekli verim alınamamaktadır. Projenin amacı, siz daha aracın yanına gelmeden motor kaputunda bulunan motor ve ekipmanları, camları ve aynaları, soğuğun etkisini en aza indirmek için silikon termal pedler kullanarak verimli çalışması için geliştirilmiş bir ısı sistemidir. 
