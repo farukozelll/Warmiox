@@ -7,9 +7,7 @@ Araç motorları zorlu iklim koşullarında çalışsa bile gerekli verim alına
 Bu sistemde mobil uygulamamızdan aracımızın belli noktalarına yerleştirilmiş olan silikon termal pedler çalıştırılarak sıcaklık kontrolleri sağlanmaktadır. Böylece projemizde araç sahiplerinin zaman kaybı oluşturmadan aracın kullanım ömrünü uzatacaktır. 
 
 
-![5](https://user-images.githubusercontent.com/47918693/211146789-20d5f008-4873-4a95-b989-6f2340e1f55e.png)
-
-![6](https://user-images.githubusercontent.com/47918693/211146791-21ea540d-1fe5-408a-a602-dfa56c25b865.png)
+![5](https://user-images.githubusercontent.com/47918693/211146789-20d5f008-4873-4a95-b989-6f2340e1f55e.png) ![6](https://user-images.githubusercontent.com/47918693/211146791-21ea540d-1fe5-408a-a602-dfa56c25b865.png)
 
 ## Yöntem 
 Warmiox akıllı ulaşım sisteminde yeni nesil teknoloji olan nesnelerin interneti teknolojisinden faydalanacaktır. Şöyle ki araç sahiplerinin araç içi ısı durumunu bildirecek olup; araç sahibi evindeyken veya iş yerindeyken bir SMS ile düşük dereceli olan aracımızın sıcaklığını ayarlanacaktır. Bu sistemimiz 3 ana başlık altında ele alınabilir. Yazılım , mekanik ve elektronik. Her bir bölüm kendi bazında alt disiplinlere ayrılmaktadır. Yazılım olarak yapılması planlanan projede Arduino kodları ve GSM shield kontrol kodları yer almaktadır. GSM Shield, Quectel M10 radyo modem kullanır. M10 dört-bantlı bir GSM / GPRS modemidir ve GSM850MHz, GSM900MHz, GSM1800MHz ve PCS1900MHz frekansları ile çalışır. Bir GPRS bağlantısı üzerinden TCP/UDP ve HTTP protokollerini destekler. GPRS veri indirme bağlantısı ve yükleme bağlantısı maksimum hızı 85.6 kbps dir.[3] Gsm seçmemizdeki asıl nedeni bütün araç sahiplerine hitap edebilmektir. SMS, arama, MMS ve internet bağlantısı gibi özellikleri kullanım imkanı vermektedir. Sürekli ısı takibi yaparak gerçek zamanlı her bir pedin ısı verilerini de kullanıcı mobil uygulamamızda görebilmektedir. Mobil uygulamamız da aracımızı kontrol etmemizde kolaylık sağlayacak şekilde tasarlanacaktır. Ayrıca kullanıma göre Bluetooth modülü de eklenmesi hedeflenmektedir. Bu işlem de halihazırda yapmış olduğumuz maliyet tasarrufunu daha da artırılması sağlanacaktır. 
